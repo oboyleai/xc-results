@@ -195,20 +195,31 @@ tr:nth-child(even) {
 }
 
 /* Media Queries */
-@media (max-width: 768px) {
-    /* Hide less important columns */
-    .table-container td:not(:first-child):not(:nth-child(2)):not(:last-child) {
-        display: none;
+/* Mobile-first: These are the default styles for small screens */
+.table-container td:not(:first-child):not(:nth-child(2)):not(:last-child) {
+    display: none;
+}
+
+.athletes-grid {
+    grid-template-columns: 1fr;
+}
+
+.expand-btn, .fab {
+    padding: 1rem;
+}
+
+/* Only apply multi-column layout on larger screens */
+@media (min-width: 768px) {
+    .table-container td {
+        display: table-cell; /* Show all columns */
     }
 
-    /* Adjust card layout */
     .athletes-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     }
 
-    /* Enhance touch targets */
     .expand-btn, .fab {
-        padding: 1rem;
+        padding: 0.5rem;
     }
 }
 
@@ -240,12 +251,12 @@ tr:nth-child(even) {
     color: var(--text-primary);
 }
 
-/* Gallery Grid */
+/* Gallery Grid - Mobile First */
 .gallery-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1rem;
-    padding: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 0.5rem;
+    padding: 0.5rem;
 }
 
 .gallery-item {
@@ -274,7 +285,7 @@ tr:nth-child(even) {
     transform: scale(1.05);
 }
 
-/* Lightbox */
+/* Lightbox - Mobile First */
 .lightbox {
     display: none;
     position: fixed;
@@ -284,7 +295,7 @@ tr:nth-child(even) {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.9);
     z-index: 1000;
-    padding: 2rem;
+    padding: 1rem;
 }
 
 .lightbox img {
@@ -305,7 +316,7 @@ tr:nth-child(even) {
     top: 1rem;
     right: 1.5rem;
     color: white;
-    font-size: 2rem;
+    font-size: 1.5rem;
     cursor: pointer;
     z-index: 1001;
     background: none;
@@ -325,8 +336,8 @@ tr:nth-child(even) {
     background: var(--primary-color);
     color: white;
     border: none;
-    width: 40px;
-    height: 40px;
+    width: 36px;
+    height: 36px;
     border-radius: 50%;
     cursor: pointer;
     box-shadow: 0 2px 4px var(--shadow-color);
@@ -346,25 +357,25 @@ tr:nth-child(even) {
     right: 1rem;
 }
 
-/* Mobile Optimizations */
-@media (max-width: 768px) {
+/* Desktop Enhancements */
+@media (min-width: 768px) {
     .gallery-grid {
-        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-        gap: 0.5rem;
-        padding: 0.5rem;
-    }
-
-    .lightbox {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 1rem;
         padding: 1rem;
     }
 
+    .lightbox {
+        padding: 2rem;
+    }
+
     .nav-btn {
-        width: 36px;
-        height: 36px;
+        width: 40px;
+        height: 40px;
     }
 
     .close-btn {
-        font-size: 1.5rem;
+        font-size: 2rem;
     }
 }
 
