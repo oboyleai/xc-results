@@ -1,0 +1,1225 @@
+1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>37th Early Bird Open Mens 5000 Meters HS Open 5K</title>
+</head>
+   <body>
+   <a href = "#main">Skip to Main Content</a>
+   <nav>
+     <ul>
+        <li><a href="index.html">Home Page</a></li>
+        <li><a href="#summary">Summary</a></li>
+        <li><a href="#team-results">Team Results</a></li>
+        <li><a href="#individual-results">Individual Results</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+     </ul>
+   </nav>
+   <header>
+      <!--Meet Info-->
+       
+        <h1><a href="https://www.athletic.net/CrossCountry/meet/235827/results/943367">37th Early Bird Open Mens 5000 Meters HS Open 5K</a></h1>
+        <h2>Thu Aug 29 2024</h2>
+</header>
+   <main id = "main">
+
+
+    <section class="summary" id = "summary">
+      <p>The Skyline team performed admirably at the 37th Early Bird Open, securing 7th place overall with a team score of 186. Notable individual performances include several athletes who achieved personal records (PRs). <span class="athlete">Matthew Guikema</span> led the team with a time of <time>17:35.10</time>, followed closely by <span class="athlete">Nicholas Yuan</span> at <time>17:44.40</time>. <span class="athlete">Zeke Lafferty</span>, <span class="athlete">Jack Robichaud</span>, and <span class="athlete">Gustaf Finn</span> rounded out the top five for Skyline, contributing to the team's tight spread between runners. Other athletes who achieved PRs include <span class="athlete">Oskar MacArthur</span> (<time>18:37.50</time>), <span class="athlete">Grayson Crooks</span> (<time>19:37.10</time>), <span class="athlete">Juan Luis Llanes</span> (<time>19:48.00</time>), and <span class="athlete">Paxton Alicandro</span> (<time>21:13.00</time>). This race showcased the team's strong depth and improvement as they continue the season.</p>
+    </section>
+<section id="team-results">
+
+        <h2>Team Results</h2><table>
+<tr><th>Place</th><th>Team</th><th>Score</th></tr>
+<tr><td>1</td><td>Livonia Churchill</td><td> 95</td></tr>
+<tr><td>2</td><td>Ann Arbor Pioneer</td><td> 126</td></tr>
+<tr><td>3</td><td>White Lake Lakeland</td><td> 127</td></tr>
+<tr><td>4</td><td>Plymouth</td><td> 134</td></tr>
+<tr><td>5</td><td>Ann Arbor Huron</td><td> 164</td></tr>
+<tr><td>6</td><td>Romeo</td><td> 186</td></tr>
+<tr><td>7</td><td>Ann Arbor Skyline</td><td> 244</td></tr>
+<tr><td>8</td><td>Grand Blanc</td><td> 247</td></tr>
+<tr><td>9</td><td>Mason</td><td> 280</td></tr>
+<tr><td>10</td><td>South Lyon</td><td> 291</td></tr>
+<tr><td>11</td><td>South Lyon East</td><td> 318</td></tr>
+<tr><td>12</td><td>Fenton</td><td> 327</td></tr>
+<tr><td>13</td><td>Fraser</td><td> 346</td></tr>
+<tr><td>14</td><td>Whitmore Lake</td><td> 467</td></tr>
+<tr><td>15</td><td>Waterford Kettering</td><td> 477</td></tr>
+<tr><td>16</td><td>North Farmington</td><td> 504</td></tr>
+<tr><td>17</td><td>Ypsilanti Community</td><td> 546</td></tr>
+<tr><td>18</td><td>Waterford Mott</td><td> 551</td></tr>
+</table>
+</section>
+
+                    <section id="individual-results">
+
+                    <h2>Individual Results</h2>
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349678.jpg" width="200" alt="Profile picture of Matthew Guikema"> 
+    <figcaption>Matthew Guikema</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>23.</dd>
+    <dt>Time</dt><dd>17:35.10</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21615273.jpg" width="200" alt="Profile picture of Nicholas Yuan"> 
+    <figcaption>Nicholas Yuan</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>28.</dd>
+    <dt>Time</dt><dd>17:44.40</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21142917.jpg" width="200" alt="Profile picture of Zeke Lafferty"> 
+    <figcaption>Zeke Lafferty</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>40.</dd>
+    <dt>Time</dt><dd>18:07.30</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/18820279.jpg" width="200" alt="Profile picture of Jack Robichaud"> 
+    <figcaption>Jack Robichaud</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>47.</dd>
+    <dt>Time</dt><dd>18:23.70</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21147171.jpg" width="200" alt="Profile picture of Gustaf Finn"> 
+    <figcaption>Gustaf Finn</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>50.</dd>
+    <dt>Time</dt><dd>18:28.20</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349698.jpg" width="200" alt="Profile picture of Oskar MacArthur"> 
+    <figcaption>Oskar MacArthur</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>58.</dd>
+    <dt>Time</dt><dd>18:37.50</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/19203161.jpg" width="200" alt="Profile picture of Martin Gehrke"> 
+    <figcaption>Martin Gehrke</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>62.</dd>
+    <dt>Time</dt><dd>18:42.70</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21245954.jpg" width="200" alt="Profile picture of Kyle Krasan"> 
+    <figcaption>Kyle Krasan</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>74.</dd>
+    <dt>Time</dt><dd>18:59.90</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/18820257.jpg" width="200" alt="Profile picture of Parker Razelun"> 
+    <figcaption>Parker Razelun</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>77.</dd>
+    <dt>Time</dt><dd>19:01.80</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23564875.jpg" width="200" alt="Profile picture of Raphael Fournier"> 
+    <figcaption>Raphael Fournier</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>85.</dd>
+    <dt>Time</dt><dd>19:14.70</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349680.jpg" width="200" alt="Profile picture of Dylan Hanley"> 
+    <figcaption>Dylan Hanley</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>86.</dd>
+    <dt>Time</dt><dd>19:15.60</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21147176.jpg" width="200" alt="Profile picture of Bruno Cifaldi"> 
+    <figcaption>Bruno Cifaldi</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>88.</dd>
+    <dt>Time</dt><dd>19:17.30</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23564880.jpg" width="200" alt="Profile picture of Juan Luis Llanes"> 
+    <figcaption>Juan Luis Llanes</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>109.</dd>
+    <dt>Time</dt><dd>19:48.00</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21147174.jpg" width="200" alt="Profile picture of Marlowe Hartnett"> 
+    <figcaption>Marlowe Hartnett</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>112.</dd>
+    <dt>Time</dt><dd>19:52.10</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/26322015.jpg" width="200" alt="Profile picture of Elliot Daley"> 
+    <figcaption>Elliot Daley</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>114.</dd>
+    <dt>Time</dt><dd>19:55.40</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349712.jpg" width="200" alt="Profile picture of Paxton Rose"> 
+    <figcaption>Paxton Rose</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>121.</dd>
+    <dt>Time</dt><dd>20:03.40</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/26322046.jpg" width="200" alt="Profile picture of Jackson Cichewicz"> 
+    <figcaption>Jackson Cichewicz</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>128.</dd>
+    <dt>Time</dt><dd>20:13.20</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21615274.jpg" width="200" alt="Profile picture of Garrett Comer"> 
+    <figcaption>Garrett Comer</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>161.</dd>
+    <dt>Time</dt><dd>21:04.20</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23636797.jpg" width="200" alt="Profile picture of Phylip Elliott"> 
+    <figcaption>Phylip Elliott</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>228.</dd>
+    <dt>Time</dt><dd>23:16.10</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/26322021.jpg" width="200" alt="Profile picture of Sage O'Lor"> 
+    <figcaption>Sage O'Lor</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>248.</dd>
+    <dt>Time</dt><dd>23:51.40</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+</section>
+
+        <section id = "gallery">
+        <h2>Gallery</h2>
+        
+   </section>
+   </main>   
+   <footer>
+                     <p>
+                     Skyline High School<br>
+                     <address>
+                     2552 North Maple Road<br>
+                     Ann Arbor, MI 48103<br><br>
+
+                     <a href = "https://sites.google.com/aaps.k12.mi.us/skylinecrosscountry2021/home">XC Skyline Page</a><br>
+                    Follow us on Instagram <a href = "https://www.instagram.com/a2skylinexc/" aria-label="Instagram"><i class="fa-brands fa-instagram"></i>  </a> 
+
+
+                     </footer>
+        </body>
+</html>
+
+2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>37th Early Bird Open Womens 5000 Meters HS Open 5K</title>
+</head>
+   <body>
+   <a href = "#main">Skip to Main Content</a>
+   <nav>
+     <ul>
+        <li><a href="index.html">Home Page</a></li>
+        <li><a href="#summary">Summary</a></li>
+        <li><a href="#team-results">Team Results</a></li>
+        <li><a href="#individual-results">Individual Results</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+     </ul>
+   </nav>
+   <header>
+      <!--Meet Info-->
+       
+        <h1><a href="https://www.athletic.net/CrossCountry/meet/235827/results/943368">37th Early Bird Open Womens 5000 Meters HS Open 5K</a></h1>
+        <h2>Thu Aug 29 2024</h2>
+</header>
+   <main id = "main">
+
+
+    <section class="summary" id = "summary">
+      <p>The Skyline women's team had an outstanding performance at the 37th Early Bird Open, finishing 2nd overall with a team score of 92. Freshman <span class="athlete">Lucia Llanes</span> led the team with a strong finish, crossing the line in <time>20:02.00</time>. Notable performances include personal records (PRs) set by <span class="athlete">Deborah Song</span> (<time>24:22.70</time>), <span class="athlete">Ayla Balazer</span> (<time>23:10.20</time>), and <span class="athlete">Amelia Tomas</span> (<time>30:43.70</time>). The team showed impressive depth with consistent finishes from <span class="athlete">Lila Edison</span> (<time>21:03.40</time>), <span class="athlete">Irie Scrase</span> (<time>21:16.50</time>), and <span class="athlete">Isla Tharp</span> (<time>21:22.30</time>). This solid team effort helped Skyline secure a podium finish at the meet.</p>
+    </section>
+<section id="team-results">
+
+        <h2>Team Results</h2><table>
+<tr><th>Place</th><th>Team</th><th>Score</th></tr>
+<tr><td>1</td><td>Romeo</td><td> 92</td></tr>
+<tr><td>2</td><td>Ann Arbor Skyline</td><td> 109</td></tr>
+<tr><td>3</td><td>Fraser</td><td> 117</td></tr>
+<tr><td>4</td><td>Ann Arbor Huron</td><td> 143</td></tr>
+<tr><td>5</td><td>Whitmore Lake</td><td> 153</td></tr>
+<tr><td>6</td><td>Livonia Churchill</td><td> 156</td></tr>
+<tr><td>7</td><td>Grand Blanc</td><td> 166</td></tr>
+<tr><td>8</td><td>Mason</td><td> 236</td></tr>
+<tr><td>9</td><td>South Lyon East</td><td> 277</td></tr>
+<tr><td>10</td><td>Fenton</td><td> 309</td></tr>
+<tr><td>11</td><td>Christ the King</td><td> 356</td></tr>
+<tr><td>12</td><td>North Farmington</td><td> 400</td></tr>
+<tr><td>13</td><td>Waterford Kettering</td><td> 416</td></tr>
+<tr><td>14</td><td>Ypsilanti Community</td><td> 441</td></tr>
+</table>
+</section>
+
+                    <section id="individual-results">
+
+                    <h2>Individual Results</h2>
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/26328690.jpg" width="200" alt="Profile picture of Lucia Llanes"> 
+    <figcaption>Lucia Llanes</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>8.</dd>
+    <dt>Time</dt><dd>20:02.00</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349671.jpg" width="200" alt="Profile picture of Lila Edison"> 
+    <figcaption>Lila Edison</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>12.</dd>
+    <dt>Time</dt><dd>21:03.40</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23564884.jpg" width="200" alt="Profile picture of Irie Scrase"> 
+    <figcaption>Irie Scrase</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>15.</dd>
+    <dt>Time</dt><dd>21:16.50</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349719.jpg" width="200" alt="Profile picture of Isla Tharp"> 
+    <figcaption>Isla Tharp</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>18.</dd>
+    <dt>Time</dt><dd>21:22.30</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/19352189.jpg" width="200" alt="Profile picture of Ayla Balazer"> 
+    <figcaption>Ayla Balazer</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>39.</dd>
+    <dt>Time</dt><dd>23:10.20</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23687883.jpg" width="200" alt="Profile picture of Mara Mocanu"> 
+    <figcaption>Mara Mocanu</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>40.</dd>
+    <dt>Time</dt><dd>23:13.90</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23564882.jpg" width="200" alt="Profile picture of Alison Kauffman"> 
+    <figcaption>Alison Kauffman</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>43.</dd>
+    <dt>Time</dt><dd>23:20.00</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/22520342.jpg" width="200" alt="Profile picture of Tia Cocciolone"> 
+    <figcaption>Tia Cocciolone</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>47.</dd>
+    <dt>Time</dt><dd>23:42.10</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/24802677.jpg" width="200" alt="Profile picture of Gwen Stotts-Walshe"> 
+    <figcaption>Gwen Stotts-Walshe</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>53.</dd>
+    <dt>Time</dt><dd>24:07.20</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349718.jpg" width="200" alt="Profile picture of Elin Tenbrink"> 
+    <figcaption>Elin Tenbrink</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>55.</dd>
+    <dt>Time</dt><dd>24:13.00</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23687880.jpg" width="200" alt="Profile picture of Julianna Heung"> 
+    <figcaption>Julianna Heung</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>80.</dd>
+    <dt>Time</dt><dd>25:36.50</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/18895017.jpg" width="200" alt="Profile picture of Vera Naines"> 
+    <figcaption>Vera Naines</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>86.</dd>
+    <dt>Time</dt><dd>26:05.90</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21142908.jpg" width="200" alt="Profile picture of Alexandra Wren"> 
+    <figcaption>Alexandra Wren</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>87.</dd>
+    <dt>Time</dt><dd>26:08.20</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/22520388.jpg" width="200" alt="Profile picture of Elsa Wenzlaff"> 
+    <figcaption>Elsa Wenzlaff</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>88.</dd>
+    <dt>Time</dt><dd>26:14.50</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/26328689.jpg" width="200" alt="Profile picture of Calla Sopoci"> 
+    <figcaption>Calla Sopoci</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>92.</dd>
+    <dt>Time</dt><dd>26:21.40</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23564883.jpg" width="200" alt="Profile picture of Arabella Kessler"> 
+    <figcaption>Arabella Kessler</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>157.</dd>
+    <dt>Time</dt><dd>32:58.60</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+</section>
+
+        <section id = "gallery">
+        <h2>Gallery</h2>
+        
+   </section>
+   </main>   
+   <footer>
+                     <p>
+                     Skyline High School<br>
+                     <address>
+                     2552 North Maple Road<br>
+                     Ann Arbor, MI 48103<br><br>
+
+                     <a href = "https://sites.google.com/aaps.k12.mi.us/skylinecrosscountry2021/home">XC Skyline Page</a><br>
+                    Follow us on Instagram <a href = "https://www.instagram.com/a2skylinexc/" aria-label="Instagram"><i class="fa-brands fa-instagram"></i>  </a> 
+
+
+                     </footer>
+        </body>
+</html>
+
+3
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>56th Holly-Duane Raffin Festival of Races Mens 5000 Meters D1 Boys</title>
+</head>
+   <body>
+   <a href = "#main">Skip to Main Content</a>
+   <nav>
+     <ul>
+        <li><a href="index.html">Home Page</a></li>
+        <li><a href="#summary">Summary</a></li>
+        <li><a href="#team-results">Team Results</a></li>
+        <li><a href="#individual-results">Individual Results</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+     </ul>
+   </nav>
+   <header>
+      <!--Meet Info-->
+       
+        <h1><a href="https://www.athletic.net/CrossCountry/meet/236072/results/944167">56th Holly-Duane Raffin Festival of Races Mens 5000 Meters D1 Boys</a></h1>
+        <h2>Sat Sep 14 2024</h2>
+</header>
+   <main id = "main">
+
+
+    <section class="summary" id = "summary">
+      <p>The Ann Arbor Skyline Varsity Boys team competed fiercely at the 56th Holly-Duane Raffin Festival of Races, securing a 12th place finish with 309 points. Despite tough competition, Skyline athletes demonstrated determination and strength throughout the 5,000-meter race.</p><p>Leading the charge for Skyline was sophomore <span class="athlete">Nicholas Yuan</span>, who finished with a time of <time>17:31.6</time>. Hot on his heels, senior <span class="athlete">Jack Robichaud</span> crossed the finish line in <time>17:43.1</time>, followed closely by sophomore <span class="athlete">Enshu Kuan</span> at <time>17:44.4</time>.</p><p>Other notable performances include junior <span class="athlete">Bruno Cifaldi</span> with a time of <time>17:57.2</time> and junior <span class="athlete">Kyle Krasan</span> rounding out the top five for Skyline with a finish of <time>18:01.8</time>.</p><p>With such a close spread among the team’s top runners, Skyline is proving their depth and potential for the season ahead, as they continue to push toward stronger finishes in upcoming races.</p>
+    </section>
+<section id="team-results">
+
+        <h2>Team Results</h2><table>
+<tr><th>Place</th><th>Team</th><th>Score</th></tr>
+<tr><td>1</td><td>Holly</td><td> 79</td></tr>
+<tr><td>2</td><td>Canton</td><td> 133</td></tr>
+<tr><td>3</td><td>Midland</td><td> 145</td></tr>
+<tr><td>4</td><td>Oxford</td><td> 148</td></tr>
+<tr><td>5</td><td>Plymouth</td><td> 169</td></tr>
+<tr><td>6</td><td>Salem</td><td> 201</td></tr>
+<tr><td>7</td><td>Lake Orion</td><td> 213</td></tr>
+<tr><td>8</td><td>Troy</td><td> 215</td></tr>
+<tr><td>9</td><td>Howell</td><td> 218</td></tr>
+<tr><td>10</td><td>Dexter</td><td> 243</td></tr>
+<tr><td>11</td><td>Davison</td><td> 293</td></tr>
+<tr><td>12</td><td>Midland Dow</td><td> 309</td></tr>
+<tr><td>13</td><td>Ann Arbor Skyline</td><td> 349</td></tr>
+<tr><td>14</td><td>Detroit Catholic Central</td><td> 353</td></tr>
+<tr><td>15</td><td>Utica Eisenhower</td><td> 358</td></tr>
+<tr><td>16</td><td>Romeo</td><td> 431</td></tr>
+<tr><td>17</td><td>Rochester Adams</td><td> 437</td></tr>
+<tr><td>18</td><td>Hartland</td><td> 460</td></tr>
+<tr><td>19</td><td>New Baltimore Anchor Bay</td><td> 472</td></tr>
+<tr><td>20</td><td>Utica Ford</td><td> 483</td></tr>
+<tr><td>21</td><td>Livonia Stevenson</td><td> 508</td></tr>
+<tr><td>22</td><td>Grand Blanc</td><td> 552</td></tr>
+<tr><td>23</td><td>Clinton Twp. Chippewa Valley</td><td> 564</td></tr>
+<tr><td>24</td><td>Troy Athens</td><td> 680</td></tr>
+</table>
+</section>
+
+                    <section id="individual-results">
+
+                    <h2>Individual Results</h2>
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21615273.jpg" width="200" alt="Profile picture of Nicholas Yuan"> 
+    <figcaption>Nicholas Yuan</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>43.</dd>
+    <dt>Time</dt><dd>17:31.6</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/18820279.jpg" width="200" alt="Profile picture of Jack Robichaud"> 
+    <figcaption>Jack Robichaud</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>61.</dd>
+    <dt>Time</dt><dd>17:43.1</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23687884.jpg" width="200" alt="Profile picture of Enshu Kuan"> 
+    <figcaption>Enshu Kuan</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>63.</dd>
+    <dt>Time</dt><dd>17:44.4</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21147176.jpg" width="200" alt="Profile picture of Bruno Cifaldi"> 
+    <figcaption>Bruno Cifaldi</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>70.</dd>
+    <dt>Time</dt><dd>17:57.2</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21245954.jpg" width="200" alt="Profile picture of Kyle Krasan"> 
+    <figcaption>Kyle Krasan</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>72.</dd>
+    <dt>Time</dt><dd>18:01.8</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21142917.jpg" width="200" alt="Profile picture of Zeke Lafferty"> 
+    <figcaption>Zeke Lafferty</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>102.</dd>
+    <dt>Time</dt><dd>18:30.9</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21147171.jpg" width="200" alt="Profile picture of Gustaf Finn"> 
+    <figcaption>Gustaf Finn</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>112.</dd>
+    <dt>Time</dt><dd>18:42.0</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+</section>
+
+        <section id = "gallery">
+        <h2>Gallery</h2>
+        
+   </section>
+   </main>   
+   <footer>
+                     <p>
+                     Skyline High School<br>
+                     <address>
+                     2552 North Maple Road<br>
+                     Ann Arbor, MI 48103<br><br>
+
+                     <a href = "https://sites.google.com/aaps.k12.mi.us/skylinecrosscountry2021/home">XC Skyline Page</a><br>
+                    Follow us on Instagram <a href = "https://www.instagram.com/a2skylinexc/" aria-label="Instagram"><i class="fa-brands fa-instagram"></i>  </a> 
+
+
+                     </footer>
+        </body>
+</html>
+
+
+4
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>56th Holly-Duane Raffin Festival of Races Mens 5000 Meters D1 JV Boys</title>
+</head>
+   <body>
+   <a href = "#main">Skip to Main Content</a>
+   <nav>
+     <ul>
+        <li><a href="index.html">Home Page</a></li>
+        <li><a href="#summary">Summary</a></li>
+        <li><a href="#team-results">Team Results</a></li>
+        <li><a href="#individual-results">Individual Results</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+     </ul>
+   </nav>
+   <header>
+      <!--Meet Info-->
+       
+        <h1><a href="https://www.athletic.net/CrossCountry/meet/236072/results/944163">56th Holly-Duane Raffin Festival of Races Mens 5000 Meters D1 JV Boys</a></h1>
+        <h2>Sat Sep 14 2024</h2>
+</header>
+   <main id = "main">
+
+
+    <section class="summary" id = "summary">
+      <p>The Ann Arbor Skyline JV Boys team delivered a strong performance at the 56th Holly-Duane Raffin Festival of Races, finishing in 3rd place overall with 72 points. The team’s impressive consistency and depth were on full display during the 5,000-meter race.</p><p>Freshman <span class="athlete">Oskar MacArthur</span> led the Skyline pack, finishing in <time>17:57.7</time>, followed closely by freshman <span class="athlete">Martin Gehrke</span> at <time>17:58.8</time>. Both runners broke the 18-minute barrier, setting the pace for the team.</p><p>Sophomore <span class="athlete">Dylan Hanley</span> clocked in at <time>18:13.9</time>, with junior <span class="athlete">Parker Razelun</span> finishing in <time>18:21.8</time>. Rounding out the top five for Skyline, sophomore <span class="athlete">Santiago Valenzuela</span> crossed the line at <time>18:56.7</time>, capping off a solid team performance.</p><p>The close grouping of Skyline’s top runners helped secure their strong placement, setting the stage for a promising season ahead.</p>
+    </section>
+<section id="team-results">
+
+        <h2>Team Results</h2><table>
+<tr><th>Place</th><th>Team</th><th>Score</th></tr>
+<tr><td>1</td><td>Holly</td><td> 43</td></tr>
+<tr><td>2</td><td>Salem</td><td> 52</td></tr>
+<tr><td>3</td><td>Midland</td><td> 72</td></tr>
+<tr><td>4</td><td>Ann Arbor Skyline</td><td> 128</td></tr>
+<tr><td>5</td><td>Troy</td><td> 181</td></tr>
+<tr><td>6</td><td>Dexter</td><td> 212</td></tr>
+<tr><td>7</td><td>Utica Ford</td><td> 230</td></tr>
+<tr><td>8</td><td>Canton</td><td> 255</td></tr>
+<tr><td>9</td><td>Detroit Catholic Central</td><td> 270</td></tr>
+<tr><td>10</td><td>Midland Dow</td><td> 297</td></tr>
+<tr><td>11</td><td>Rochester Adams</td><td> 298</td></tr>
+<tr><td>12</td><td>Oxford</td><td> 321</td></tr>
+<tr><td>13</td><td>Howell</td><td> 340</td></tr>
+<tr><td>14</td><td>Plymouth</td><td> 399</td></tr>
+<tr><td>15</td><td>Romeo</td><td> 400</td></tr>
+<tr><td>16</td><td>Hartland</td><td> 476</td></tr>
+<tr><td>17</td><td>Livonia Stevenson</td><td> 506</td></tr>
+<tr><td>18</td><td>Utica Eisenhower</td><td> 527</td></tr>
+<tr><td>19</td><td>Davison</td><td> 580</td></tr>
+<tr><td>20</td><td>Lake Orion</td><td> 581</td></tr>
+</table>
+</section>
+
+                    <section id="individual-results">
+
+                    <h2>Individual Results</h2>
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349698.jpg" width="200" alt="Profile picture of Oskar MacArthur"> 
+    <figcaption>Oskar MacArthur</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>6.</dd>
+    <dt>Time</dt><dd>17:57.7</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/19203161.jpg" width="200" alt="Profile picture of Martin Gehrke"> 
+    <figcaption>Martin Gehrke</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>7.</dd>
+    <dt>Time</dt><dd>17:58.8</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349680.jpg" width="200" alt="Profile picture of Dylan Hanley"> 
+    <figcaption>Dylan Hanley</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>13.</dd>
+    <dt>Time</dt><dd>18:13.9</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/18820257.jpg" width="200" alt="Profile picture of Parker Razelun"> 
+    <figcaption>Parker Razelun</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>15.</dd>
+    <dt>Time</dt><dd>18:21.8</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23821078.jpg" width="200" alt="Profile picture of Santiago Valenzuela"> 
+    <figcaption>Santiago Valenzuela</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>31.</dd>
+    <dt>Time</dt><dd>18:56.7</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23564875.jpg" width="200" alt="Profile picture of Raphael Fournier"> 
+    <figcaption>Raphael Fournier</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>32.</dd>
+    <dt>Time</dt><dd>18:57.1</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/25989957.jpg" width="200" alt="Profile picture of Roman Stilwell"> 
+    <figcaption>Roman Stilwell</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>33.</dd>
+    <dt>Time</dt><dd>18:57.1</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/22288700.jpg" width="200" alt="Profile picture of Henry Strait"> 
+    <figcaption>Henry Strait</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>41.</dd>
+    <dt>Time</dt><dd>19:08.0</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/26322015.jpg" width="200" alt="Profile picture of Elliot Daley"> 
+    <figcaption>Elliot Daley</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>42.</dd>
+    <dt>Time</dt><dd>19:12.0</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21147174.jpg" width="200" alt="Profile picture of Marlowe Hartnett"> 
+    <figcaption>Marlowe Hartnett</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>43.</dd>
+    <dt>Time</dt><dd>19:14.5</dd>
+    <dt>Grade</dt><dd>11</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/26322046.jpg" width="200" alt="Profile picture of Jackson Cichewicz"> 
+    <figcaption>Jackson Cichewicz</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>46.</dd>
+    <dt>Time</dt><dd>19:19.5</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/21147172.jpg" width="200" alt="Profile picture of Micah Winchell"> 
+    <figcaption>Micah Winchell</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>74.</dd>
+    <dt>Time</dt><dd>19:52.1</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/26322025.jpg" width="200" alt="Profile picture of Emmett Strait"> 
+    <figcaption>Emmett Strait</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>95.</dd>
+    <dt>Time</dt><dd>20:13.1</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23636797.jpg" width="200" alt="Profile picture of Phylip Elliott"> 
+    <figcaption>Phylip Elliott</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>115.</dd>
+    <dt>Time</dt><dd>20:39.6</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/26460401.jpg" width="200" alt="Profile picture of Leo Chi"> 
+    <figcaption>Leo Chi</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>116.</dd>
+    <dt>Time</dt><dd>20:40.6</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349703.jpg" width="200" alt="Profile picture of Ethan Miller"> 
+    <figcaption>Ethan Miller</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>211.</dd>
+    <dt>Time</dt><dd>22:21.9</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349716.jpg" width="200" alt="Profile picture of Jude Shafer"> 
+    <figcaption>Jude Shafer</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>255.</dd>
+    <dt>Time</dt><dd>23:14.4</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/26322018.jpg" width="200" alt="Profile picture of Cole Harms"> 
+    <figcaption>Cole Harms</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>321.</dd>
+    <dt>Time</dt><dd>25:04.0</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/26460414.jpg" width="200" alt="Profile picture of Caspian Ruiz"> 
+    <figcaption>Caspian Ruiz</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>372.</dd>
+    <dt>Time</dt><dd>29:04.1</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+</section>
+
+        <section id = "gallery">
+        <h2>Gallery</h2>
+        
+   </section>
+   </main>   
+   <footer>
+                     <p>
+                     Skyline High School<br>
+                     <address>
+                     2552 North Maple Road<br>
+                     Ann Arbor, MI 48103<br><br>
+
+                     <a href = "https://sites.google.com/aaps.k12.mi.us/skylinecrosscountry2021/home">XC Skyline Page</a><br>
+                    Follow us on Instagram <a href = "https://www.instagram.com/a2skylinexc/" aria-label="Instagram"><i class="fa-brands fa-instagram"></i>  </a> 
+
+
+                     </footer>
+        </body>
+</html>
+
+
+5
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>56th Holly-Duane Raffin Festival of Races Womens 5000 Meters D1 Girls</title>
+</head>
+   <body>
+   <a href = "#main">Skip to Main Content</a>
+   <nav>
+     <ul>
+        <li><a href="index.html">Home Page</a></li>
+        <li><a href="#summary">Summary</a></li>
+        <li><a href="#team-results">Team Results</a></li>
+        <li><a href="#individual-results">Individual Results</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+     </ul>
+   </nav>
+   <header>
+      <!--Meet Info-->
+       
+        <h1><a href="https://www.athletic.net/CrossCountry/meet/236072/results/944165">56th Holly-Duane Raffin Festival of Races Womens 5000 Meters D1 Girls</a></h1>
+        <h2>Sat Sep 14 2024</h2>
+</header>
+   <main id = "main">
+
+
+    <section class="summary" id = "summary">
+      <p>Ann Arbor Skyline's Varsity girls team gave it their all at the 56th Holly-Duane Raffin Festival of Races, finishing 8th overall with 204 points. The team faced tough competition but held their own against some of the best in the state.</p><p>Leading the way for Skyline was sophomore <span class="athlete">Irie Scrase</span>, who put up a stellar performance, crossing the line with a personal record of <time>19:48.9</time>. Freshman <span class="athlete">Elin Tenbrink</span> followed, clocking in at <time>21:47.4</time>, showing great promise for the future of Skyline’s team.</p><p>Other notable finishes included sophomore <span class="athlete">Isla Tharp</span>, who crossed the line at <time>21:52.3</time>, and sophomore <span class="athlete">Alison Kauffman</span> at <time>22:09.9</time>. Rounding out the top five was sophomore <span class="athlete">Mara Mocanu</span> with a time of <time>22:13.0</time>.</p><p>Skyline’s runners demonstrated their resilience and determination as they competed against a tough field, proving once again that they have the potential to rise through the ranks as the season progresses.</p>
+    </section>
+<section id="team-results">
+
+        <h2>Team Results</h2><table>
+<tr><th>Place</th><th>Team</th><th>Score</th></tr>
+<tr><td>1</td><td>Holly</td><td> 24</td></tr>
+<tr><td>2</td><td>Romeo</td><td> 112</td></tr>
+<tr><td>3</td><td>Rochester Adams</td><td> 134</td></tr>
+<tr><td>4</td><td>Hartland</td><td> 137</td></tr>
+<tr><td>5</td><td>Dexter</td><td> 154</td></tr>
+<tr><td>6</td><td>Oxford</td><td> 163</td></tr>
+<tr><td>7</td><td>Midland Dow</td><td> 170</td></tr>
+<tr><td>8</td><td>Troy</td><td> 204</td></tr>
+<tr><td>9</td><td>Ann Arbor Skyline</td><td> 257</td></tr>
+<tr><td>10</td><td>Plymouth</td><td> 278</td></tr>
+<tr><td>11</td><td>Davison</td><td> 291</td></tr>
+<tr><td>12</td><td>Grand Blanc</td><td> 351</td></tr>
+<tr><td>13</td><td>Troy Athens</td><td> 364</td></tr>
+<tr><td>14</td><td>Clinton Twp. Chippewa Valley</td><td> 372</td></tr>
+<tr><td>15</td><td>Utica Eisenhower</td><td> 389</td></tr>
+<tr><td>16</td><td>Livonia Stevenson</td><td> 397</td></tr>
+<tr><td>17</td><td>Howell</td><td> 411</td></tr>
+<tr><td>18</td><td>Utica Ford</td><td> 475</td></tr>
+<tr><td>19</td><td>New Baltimore Anchor Bay</td><td> 537</td></tr>
+</table>
+</section>
+
+                    <section id="individual-results">
+
+                    <h2>Individual Results</h2>
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23564884.jpg" width="200" alt="Profile picture of Irie Scrase"> 
+    <figcaption>Irie Scrase</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>11.</dd>
+    <dt>Time</dt><dd>19:48.9</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349671.jpg" width="200" alt="Profile picture of Lila Edison"> 
+    <figcaption>Lila Edison</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>41.</dd>
+    <dt>Time</dt><dd>21:47.4</dd>
+    <dt>Grade</dt><dd>9</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23349719.jpg" width="200" alt="Profile picture of Isla Tharp"> 
+    <figcaption>Isla Tharp</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>45.</dd>
+    <dt>Time</dt><dd>21:52.3</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23564882.jpg" width="200" alt="Profile picture of Alison Kauffman"> 
+    <figcaption>Alison Kauffman</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>55.</dd>
+    <dt>Time</dt><dd>22:09.9</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/23687883.jpg" width="200" alt="Profile picture of Mara Mocanu"> 
+    <figcaption>Mara Mocanu</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>56.</dd>
+    <dt>Time</dt><dd>22:13.0</dd>
+    <dt>Grade</dt><dd>10</dd>
+</dl>
+</section>
+
+<div class="athlete">
+<figure> 
+    <img src="../images/profiles/19352189.jpg" width="200" alt="Profile picture of Ayla Balazer"> 
+    <figcaption>Ayla Balazer</figcaption>
+</figure>
+<dl>
+    <dt>Place</dt><dd>90.</dd>
+    <dt>Time</dt><dd>24:18.8</dd>
+    <dt>Grade</dt><dd>12</dd>
+</dl>
+</section>
+</section>
+
+        <section id = "gallery">
+        <h2>Gallery</h2>
+        
+   </section>
+   </main>   
+   <footer>
+                     <p>
+                     Skyline High School<br>
+                     <address>
+                     2552 North Maple Road<br>
+                     Ann Arbor, MI 48103<br><br>
+
+                     <a href = "https://sites.google.com/aaps.k12.mi.us/skylinecrosscountry2021/home">XC Skyline Page</a><br>
+                    Follow us on Instagram <a href = "https://www.instagram.com/a2skylinexc/" aria-label="Instagram"><i class="fa-brands fa-instagram"></i>  </a> 
+
+
+                     </footer>
+        </body>
+</html>
+

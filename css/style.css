@@ -1,0 +1,70 @@
+/* Base styles */
+body {
+    margin: 0;
+    padding: 16px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f5f5f5;
+}
+
+h1, h2 {
+    margin: 0;
+    padding: 8px 0;
+    color: #333;
+    text-align: center;
+}
+
+/* Meet container */
+.meet-container {
+    padding: 16px 0;
+}
+
+/* Meet cards */
+.meet-card {
+    background: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.meet-title {
+    font-size: 1.2rem;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 8px;
+}
+
+.meet-date {
+    color: #666;
+    font-size: 0.9rem;
+    padding: 8px 0;
+}
+
+/* Links */
+.meet-links {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.meet-link {
+    display: block;
+    padding: 8px;
+    background-color: #0056b3;  /* Changed from #007bff to darker #0056b3 for better contrast */
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.meet-link:hover {
+    background-color: #003d80;  /* Even darker blue for hover state */
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 16px 0;
+    color: #666;
+    font-size: 0.9rem;
+}
