@@ -31,7 +31,105 @@ body {
     font-family: 'Segoe UI', system-ui, sans-serif;
     background-color: var(--background-color);
     color: var(--text-primary);
-    transition: background-color var(--transition-speed), color var(--transition-speed);
+}
+
+/* Only apply transitions if user hasn't requested reduced motion */
+@media (prefers-reduced-motion: no-preference) {
+    body {
+        transition: background-color var(--transition-speed), color var(--transition-speed);
+    }
+
+    .sticky-header {
+        transition: background-color var(--transition-speed);
+    }
+
+    .expandable {
+        transition: all var(--transition-speed);
+    }
+
+    .expand-btn {
+        transition: transform var(--transition-speed);
+    }
+
+    .content {
+        transition: max-height var(--transition-speed);
+    }
+
+    .athlete-card {
+        transition: transform var(--transition-speed);
+    }
+
+    .progress-bar-fill {
+        transition: width var(--transition-speed);
+    }
+
+    .fab {
+        transition: transform var(--transition-speed);
+    }
+
+    .gallery-item {
+        transition: transform var(--transition-speed);
+    }
+
+    .gallery-image {
+        transition: transform var(--transition-speed);
+    }
+
+    .close-btn {
+        transition: transform var(--transition-speed);
+    }
+
+    .nav-btn {
+        transition: background-color var(--transition-speed), transform var(--transition-speed);
+    }
+
+    /* Keep the fadeIn animation */
+    .fade-in {
+        animation: fadeIn var(--transition-speed);
+    }
+}
+
+/* Remove all animations and transitions for users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.001ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.001ms !important;
+        scroll-behavior: auto !important;
+    }
+
+    .fade-in {
+        animation: none;
+    }
+
+    .gallery-item:hover {
+        transform: none;
+    }
+
+    .gallery-image:hover {
+        transform: none;
+    }
+
+    .athlete-card:active {
+        transform: none;
+    }
+
+    .fab:active {
+        transform: none;
+    }
+
+    .close-btn:hover {
+        transform: none;
+    }
+
+    .nav-btn:hover {
+        transform: none;
+        background-color: var(--primary-color);
+    }
+
+    .expandable.expanded .expand-btn {
+        transform: none;
+    }
 }
 
 /* Typography */
