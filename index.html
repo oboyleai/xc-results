@@ -4,37 +4,59 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Skyline Cross Country</title>
-    <link rel="stylesheet" href="/xc-results/css/style.css">
+    <link rel="stylesheet" href="style.css">
+    <!-- Add Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
+    <!-- Theme toggle button -->
+    <button id="darkModeToggle" class="theme-toggle" aria-label="Toggle dark mode">
+        <i class="fas fa-moon"></i>
+    </button>
+
     <div>
         <h1>Skyline Cross Country</h1>
         <h2>2024 Meet Results</h2>
     </div>
 
-    <main class="meet-container">
-        <section class="meet-card">
+    <div class="meet-container" role="main">
+        <div class="section meet-card">
             <h2 class="meet-title">37th Early Bird Open</h2>
-            <div class="meet-date">August 29, 2024</div>
+            <div class="meet-date">
+                August 29, 2024
+            </div>
             <div class="meet-links">
                 <a href="/xc-results/meets/37th_Early_Bird_Open_Mens_5000_Meters_HS_Open_5K_24.html" class="meet-link">Men's 5K Results</a>
                 <a href="/xc-results/meets/37th_Early_Bird_Open_Womens_5000_Meters_HS_Open_5K_24.html" class="meet-link">Women's 5K Results</a>
             </div>
-        </section>
+        </div>
 
-        <section class="meet-card">
+        <div class="section meet-card">
             <h2 class="meet-title">56th Holly-Duane Raffin Festival of Races</h2>
-            <div class="meet-date">September 14, 2024</div>
+            <div class="meet-date">
+                September 14, 2024
+            </div>
             <div class="meet-links">
                 <a href="/xc-results/meets/56th_Holly-Duane_Raffin_Festival_of_Races_Mens_5000_Meters_D1_Boys_24.html" class="meet-link">Men's Varsity Results</a>
                 <a href="/xc-results/meets/56th_Holly-Duane_Raffin_Festival_of_Races_Mens_5000_Meters_D1_JV_Boys_24.html" class="meet-link">Men's JV Results</a>
                 <a href="/xc-results/meets/56th_Holly-Duane_Raffin_Festival_of_Races_Womens_5000_Meters_D1_Girls_24.html" class="meet-link">Women's Varsity Results</a>
             </div>
-        </section>
-    </main>
+        </div>
+    </div>
 
     <footer>
         Skyline High School • 2552 North Maple Road • Ann Arbor, MI 48103
     </footer>
+
+    <script>
+        // Dark mode toggle - consistent with meets.js
+        document.getElementById('darkModeToggle').addEventListener('click', () => {
+            document.body.dataset.theme = document.body.dataset.theme === 'dark' ? 'light' : 'dark';
+            
+            // Update icon
+            const icon = document.querySelector('.theme-toggle i');
+            icon.className = document.body.dataset.theme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+        });
+    </script>
 </body>
 </html>
