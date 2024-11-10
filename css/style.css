@@ -13,14 +13,18 @@
 
 /* Dark theme - consistent with meets.css */
 [data-theme="dark"] {
-    --background-color: #1a1a1a;
-    --card-background: #2d2d2d;
-    --text-primary: #ffffff;
-    --text-secondary: #cccccc;
-    --border-color: #404040;
-    --shadow-color: rgba(0, 0, 0, 0.3);
-    --link-background: #4dabf7;
-    --link-hover: #2196f3;
+    --primary-color: #60a5fa;
+    --primary-hover: #93c5fd;
+}
+
+/* Add these overrides for the meet links */
+[data-theme="dark"] .meet-link {
+    background-color: #60a5fa;
+    color: #000000;
+}
+
+[data-theme="dark"] .meet-link:hover {
+    background-color: #93c5fd;
 }
 
 /* Base styles */

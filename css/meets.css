@@ -14,8 +14,9 @@
 
 /* Dark theme adjustments */
 [data-theme="dark"] {
-    --primary-color: #2b8bda;  /* Brighter blue for dark theme */
-    --primary-hover: #4dabf7;  /* Even brighter for hover */
+    --primary-color: #60a5fa;  /* Update this line */
+    --primary-hover: #93c5fd;  /* Add this line */
+    /* Keep your other existing dark theme variables */
     --secondary-color: #adb5bd;
     --background-color: #1a1a1a;
     --card-background: #2d2d2d;
@@ -23,6 +24,20 @@
     --text-secondary: #cccccc;
     --border-color: #404040;
     --shadow-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Find your .back-button styles and add these dark mode overrides after them */
+[data-theme="dark"] .back-button {
+    background-color: #60a5fa;
+    color: #000000;
+}
+
+[data-theme="dark"] .back-button:hover {
+    background-color: #93c5fd;
+}
+
+[data-theme="dark"] .back-button svg {
+    stroke: #000000;
 }
 
 /* Base styles */
